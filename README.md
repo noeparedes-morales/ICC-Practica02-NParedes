@@ -31,10 +31,9 @@ otra de interactuar con el usuario y realizar los cálculos de inversión.
 
 ## Instrucciones de compilación y ejecución
 
-<p align="justify">
 Para correr este programa desde la terminal, siga estos pasos:
 
-1. Clone este repositorio en su máquina local usando `git clone` [https://github.com/noeparedes-morales/ICC-Practica02-NParedes/new/main?filename=README.md].
+1. Clone este repositorio en su máquina local usando `git clone` [(https://github.com/noeparedes-morales/ICC-Practica02-NParedes/tree/main)].
    Alternativamente, puede descargarlo como archivo ZIP desde GitHub y descomprimirlo.
 2. Abra su aplicación de Terminal.
 3. Navegue hasta el directorio donde guardó los archivos `.java`. Por ejemplo, para la carpeta NParedes en su Escritorio, use: `cd~/Desktop/NParedes`
