@@ -33,12 +33,10 @@ otra de interactuar con el usuario y realizar los cálculos de inversión.
 
 Para correr este programa desde la terminal, siga estos pasos:
 
-1. Clone este repositorio en su máquina local usando `git clone` [(https://github.com/noeparedes-morales/ICC-Practica02-NParedes/tree/main)].
+1. Clone este repositorio en su máquina local usando `git clone` [https://github.com/noeparedes-morales/ICC-Practica02-NParedes/tree/main/NParedes/practica02/src/icc]. 
    Alternativamente, puede descargarlo como archivo ZIP desde GitHub y descomprimirlo.
 2. Abra su aplicación de Terminal.
 3. Navegue hasta el directorio donde guardó los archivos `.java`. Por ejemplo, para la carpeta NParedes en su Escritorio, use: `cd~/Desktop/NParedes`
 4. Compile ambos archivos simultáneamente con el compilador de Java: `javac Fecha.java TiempoDeInversion.java`. Una vez compilados se generarán
    los archivos `.class` correspondientes a cada archivo.
 5. Ejecute `java TiempoDeInversion`.
-
-</div>
